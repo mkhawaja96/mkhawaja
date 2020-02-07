@@ -1,0 +1,7 @@
+Do this everytime a change is made
+
+1. git add .
+
+2. git commit -m "put any message here" 
+
+3. git push origin master
